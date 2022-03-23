@@ -1,0 +1,1 @@
+# saltstack-lab-service
